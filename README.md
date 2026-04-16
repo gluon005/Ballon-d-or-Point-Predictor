@@ -1,0 +1,1 @@
+The **Ballon d'Or Points Predictor** is a Machine Learning model designed to forecast and compare the total voting points players will receive for the prestigious Ballon d'Or award. Utilizing a **Multi-Layer Perceptron (MLP) Regression** architecture, the model analyzes player performance metrics, team success, and historical voting patterns
